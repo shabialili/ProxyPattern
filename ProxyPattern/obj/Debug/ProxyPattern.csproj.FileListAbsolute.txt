@@ -1,0 +1,8 @@
+C:\Users\Shebnem\source\repos\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.exe.config
+C:\Users\Shebnem\source\repos\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.exe
+C:\Users\Shebnem\source\repos\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.pdb
+C:\Users\Shebnem\source\repos\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.csproj.AssemblyReference.cache
+C:\Users\Shebnem\source\repos\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shebnem\source\repos\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.csproj.CoreCompileInputs.cache
+C:\Users\Shebnem\source\repos\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.exe
+C:\Users\Shebnem\source\repos\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.pdb
